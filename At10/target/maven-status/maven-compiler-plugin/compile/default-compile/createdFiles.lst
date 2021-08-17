@@ -2,3 +2,8 @@ com\lpv\at10\flyweight\Carta.class
 com\lpv\at10\flyweight\Correios.class
 com\lpv\at10\flyweight\Endereco.class
 com\lpv\at10\flyweight\EnderecoFactory.class
+com\lpv\at10\proxy\FuncionarioProxy.class
+com\lpv\at10\proxy\Funcionario.class
+com\lpv\at10\proxy\Gerente.class
+com\lpv\at10\proxy\IFuncionario.class
+com\lpv\at10\proxy\BD.class
